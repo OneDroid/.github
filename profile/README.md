@@ -18,6 +18,12 @@ For info affecting the whole project visit https://onedroid.github.io
         </a>
         <br/><b>CF API Extended</b>
       </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/OneDroid/RadioWave">
+          <img src="https://github.com/OneDroid/RadioWave/blob/main/readme/android/res/mipmap-xxxhdpi/ic_launcher.png" height="100" alt="RadioWave">
+        </a>
+        <br/><b>RadioWave</b>
+      </td>
     </tr>
   </tbody>
 </table>
