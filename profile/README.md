@@ -26,6 +26,12 @@ For info affecting the whole project visit https://onedroid.github.io
         </a>
         <br/><b>RadioWave</b>
       </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/OneDroid/.txtEditor">
+          <img src="https://github.com/OneDroid/.txtEditor/blob/main/readme/android/res/mipmap-xxxhdpi/ic_launcher.png" height="100" alt=".txtEditor">
+        </a>
+        <br/><b>.txtEditor</b>
+      </td>
     </tr>
   </tbody>
 </table>
