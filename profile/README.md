@@ -1,5 +1,5 @@
 ## Public Repository Disclosure
-![MadeInBangladesh](https://raw.githubusercontent.com/OneDroid/.github/c282120fd2ff9d4599b1e2256785723463a1ceb6/images/badge/made-in-bangladesh.svg)
+![MadeInBangladesh](https://raw.githubusercontent.com/OneDroid/.github/ce6b564120a899e06f71fbe1426ccfcddce67515/images/badge/made-bangladesh.svg)
 ![SavePalestine](https://raw.githubusercontent.com/OneDroid/.github/c282120fd2ff9d4599b1e2256785723463a1ceb6/images/badge/save-palestine.svg)
 [![BuyMeACoffee](https://raw.githubusercontent.com/OneDroid/.github/c282120fd2ff9d4599b1e2256785723463a1ceb6/images/badge/bmc-donate-yellow.svg)](https://www.buymeacoffee.com/tawhidmonowar)
 
