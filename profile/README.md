@@ -1,6 +1,5 @@
 ## Public Repository Disclosure
-![SavePalestine](https://raw.githubusercontent.com/OneDroid/.github/c282120fd2ff9d4599b1e2256785723463a1ceb6/images/badge/save-palestine.svg)
-[![BuyMeACoffee](https://raw.githubusercontent.com/OneDroid/.github/c282120fd2ff9d4599b1e2256785723463a1ceb6/images/badge/bmc-donate-yellow.svg)](https://www.buymeacoffee.com/tawhidmonowar)
+[![SavePalestine](https://raw.githubusercontent.com/OneDroid/.github/c282120fd2ff9d4599b1e2256785723463a1ceb6/images/badge/save-palestine.svg)](https://www.youtube.com/watch?v=O5fbyEV36pU)
 
 All content in these repositories including code has been provided by OneDroid under the associated open source software license and OneDroid is under no obligation to provide enhancements, updates, or support. OneDroid developers produced this code as an open source project, and OneDroid makes no assertions as to the level of quality nor security.
 
