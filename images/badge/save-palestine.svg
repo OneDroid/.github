@@ -7,8 +7,8 @@
             font-size: 11px;
         }
         .badge-background {
-            rx: 10; /* Rounded corners */
-            ry: 10; /* Ensure both axes are rounded */
+            rx: 0; /* Rounded corners */
+            ry: 0; /* Ensure both axes are rounded */
             fill: #2c2f36;
         }
         .green {
