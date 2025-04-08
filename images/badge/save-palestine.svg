@@ -37,6 +37,6 @@
     </g>
     <g text-rendering="geometricPrecision">
         <!-- Adjusted text position to be inside the badge -->
-        <text y="14" x="7" class="text">#SavePalestine</text>
+        <text y="14" x="2" class="text">#SavePalestine</text>
     </g>
 </svg>
