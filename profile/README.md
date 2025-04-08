@@ -11,13 +11,13 @@ For info affecting the whole project visit https://onedroid.github.io
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/OneDroid/GreedyCoder">
-          <img src="https://github.com/OneDroid/GreedyCoder/blob/main/readme/app_icon/android/res/mipmap-xxxhdpi/ic_launcher.png" height="100" alt="GreedyCoder">
+          <img src="https://github.com/OneDroid/GreedyCoder/blob/main/readme/app_icon/android/res/mipmap-xxxhdpi/ic_launcher.png" height="100" weight="100" alt="GreedyCoder">
         </a>
         <br/><b>GreedyCoder</b>
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/OneDroid/codeforces-api-extended">
-          <img src="https://github.com/OneDroid/codeforces-api-extended/blob/main/readme/codeforces-api-extended.png" height="100" alt="Codeforces API Extended">
+          <img src="https://github.com/OneDroid/codeforces-api-extended/blob/main/readme/codeforces-api-extended.png" height="100" weight="100" alt="Codeforces API Extended">
         </a>
         <br/><b>CF API Extended</b>
       </td>
