@@ -1,15 +1,11 @@
 <?xml version="1.0"?>
-<svg width="121" height="20" version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="#FreePalestine: 🇵🇸">
+<svg width="121" height="20"  version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="#FreePalestine: 🇵🇸">
     <style>
         .text {
-            fill: #FFFFFF;
-            font-family: 'Verdana';
-            font-size: 11px;
-        }
-        .badge-background {
-            rx: 0; /* Rounded corners */
-            ry: 0; /* Ensure both axes are rounded */
-            fill: #2c2f36;
+            fill:#FFFFFF;
+            text-weight:bold;
+            font-family:'Verdana';
+            font-size:11px;
         }
         .green {
             fill: green;
@@ -18,25 +14,23 @@
             fill: red;
         }
         .black {
-            fill: black;
+            fill: black
         }
         .white {
-            fill: white;
+            fill: white
         }
         .gray {
-            fill: #545454;
+            fill: #4f4f4f
         }
     </style>
     <g shape-rendering="crispEdges">
-        <!-- Background with rounded corners -->
-        <rect width="121" height="20" class="badge-background" />
+        <rect width="91" height="20" class="gray" />
         <rect x="90.9" width="30" height="6.6" class="black" />
         <rect x="90.9" y="6.6" width="30" height="6.6" class="white"/>
         <rect x="90.9" y="13.2" width="30" height="6.6" class="green" />
         <polygon points="90.9,20 103, 10 90.9,0" class="red" />
     </g>
     <g text-rendering="geometricPrecision">
-        <!-- Adjusted text position to be inside the badge -->
-        <text y="14" x="2" class="text">#SavePalestine</text>
+        <text y="14" x="3" class="text">#FreePalestine</text>
     </g>
 </svg>
