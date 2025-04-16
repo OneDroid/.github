@@ -33,6 +33,12 @@ For info affecting the whole project visit https://onedroid.github.io
         </a>
         <br/><b>.txtEditor</b>
       </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/OneDroid/EveryCaption">
+          <img src="https://github.com/OneDroid/EveryCaption/blob/main/readme/android/res/mipmap-xxxhdpi/ic_launcher.png" height="100" alt="EveryCaption">
+        </a>
+        <br/><b>EveryCaption</b>
+      </td>
     </tr>
   </tbody>
 </table>
