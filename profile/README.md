@@ -42,3 +42,11 @@ For info affecting the whole project visit https://onedroid.github.io
     </tr>
   </tbody>
 </table>
+
+## Contributors  
+We’re grateful to everyone who has contributed to **OneDroid**. Your support and efforts help us improve every day!
+
+<a href="https://github.com/OneDroid/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OneDroid/.github&max=100&columns=20" alt="Contributors" />
+</a>
+
