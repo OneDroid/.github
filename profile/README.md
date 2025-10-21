@@ -1,6 +1,7 @@
 ## Public Repository Disclosure
 [![Don't Watch this Video](https://img.shields.io/badge/Don't%20Watch%20this%20Video-%23ff0033?style=flat&logo=youtube)](https://www.youtube.com/watch?v=O5fbyEV36pU)
 [![SavePalestine](https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg)](https://www.youtube.com/watch?v=O5fbyEV36pU)
+![Total Stars](https://img.shields.io/github/stars/onedroid?style=flat-square)
 
 All content in these repositories including code has been provided by OneDroid under the associated open source software license and OneDroid is under no obligation to provide enhancements, updates, or support. OneDroid developers produced this code as an open source project, and OneDroid makes no assertions as to the level of quality nor security.
 
