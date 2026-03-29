@@ -34,6 +34,12 @@ For info affecting the whole project visit https://onedroid.github.io
         </a>
         <br/><b>.txtEditor</b>
       </td>
+        <td align="center" valign="top">
+        <a href="https://github.com/OneDroid/TelegramDownloader">
+          <img src="https://github.com/user-attachments/assets/19076b55-0218-4053-a9d3-b43a82347941" height="100" alt=".txtEditor">
+        </a>
+        <br/><b>TelegramDownloader</b>
+      </td>
     </tr>
   </tbody>
 </table>
