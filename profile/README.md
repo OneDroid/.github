@@ -43,3 +43,6 @@ For info affecting the whole project visit https://onedroid.github.io
     </tr>
   </tbody>
 </table>
+
+> [!CAUTION]
+> Free and Open-Source Android is under threat. Google will turn Android into a locked-down platform, restricting your essential freedom to install apps of your choice. Make your voice heard – [keepandroidopen.org](https://keepandroidopen.org).
